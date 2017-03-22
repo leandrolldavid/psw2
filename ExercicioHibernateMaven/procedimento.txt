@@ -1,0 +1,12 @@
+baixar dependencias 
+no CMD mvn compile. 
+
+Ex.baixar o Hibernete pois seu projeto usa este ferramenta
+
+
+<plugin>
+para rodar o projeto
+tipo tomcaten
+mvn clean install tomcat7:run
+
+

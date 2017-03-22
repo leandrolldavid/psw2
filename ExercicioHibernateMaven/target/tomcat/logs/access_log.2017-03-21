@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [21/Mar/2017:22:20:31 -0300] "GET /SalvarPincel?cor=azul&fab=titi&num=12 HTTP/1.1" 200 32 http-bio-8080-exec-1 1298
+0:0:0:0:0:0:0:1 - - [21/Mar/2017:22:20:45 -0300] "GET /consultar.html HTTP/1.1" 200 591 http-bio-8080-exec-3 2
+0:0:0:0:0:0:0:1 - - [21/Mar/2017:22:20:50 -0300] "GET /ConsultaPincel?cor=azul HTTP/1.1" 200 71 http-bio-8080-exec-5 20
+0:0:0:0:0:0:0:1 - - [21/Mar/2017:22:20:53 -0300] "GET /buscar.html HTTP/1.1" 200 613 http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [21/Mar/2017:22:20:56 -0300] "GET /CarregaPincel?chave=1 HTTP/1.1" 200 64 http-bio-8080-exec-8 10
